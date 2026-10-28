@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abdul-rahuf/LeatCodes/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/abdul-rahuf/LeatCodes/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/abdul-rahuf/LeatCodes/tree/master/0409-longest-palindrome) |
 ## Hash Table
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abdul-rahuf/LeatCodes/tree/master/0088-merge-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abdul-rahuf/LeatCodes/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abdul-rahuf/LeatCodes/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
