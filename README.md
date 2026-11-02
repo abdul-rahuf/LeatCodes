@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/abdul-rahuf/LeatCodes/tree/master/0066-plus-one) |
 | [0415-add-strings](https://github.com/abdul-rahuf/LeatCodes/tree/master/0415-add-strings) |
+| [2469-convert-the-temperature](https://github.com/abdul-rahuf/LeatCodes/tree/master/2469-convert-the-temperature) |
 ## Sorting
 |  |
 | ------- |
