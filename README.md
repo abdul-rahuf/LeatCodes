@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abdul-rahuf/LeatCodes/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abdul-rahuf/LeatCodes/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abdul-rahuf/LeatCodes/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/abdul-rahuf/LeatCodes/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/abdul-rahuf/LeatCodes/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/abdul-rahuf/LeatCodes/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/abdul-rahuf/LeatCodes/tree/master/0415-add-strings) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/abdul-rahuf/LeatCodes/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/abdul-rahuf/LeatCodes/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/abdul-rahuf/LeatCodes/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/abdul-rahuf/LeatCodes/tree/master/0415-add-strings) |
 | [2469-convert-the-temperature](https://github.com/abdul-rahuf/LeatCodes/tree/master/2469-convert-the-temperature) |
 ## Sorting
@@ -65,9 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abdul-rahuf/LeatCodes/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/abdul-rahuf/LeatCodes/tree/master/0415-add-strings) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abdul-rahuf/LeatCodes/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/abdul-rahuf/LeatCodes/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
